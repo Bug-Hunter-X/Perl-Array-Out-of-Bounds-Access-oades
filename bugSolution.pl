@@ -1,0 +1,1 @@
+my @array = (1, 2, 3);my $element;if (@array > 3){ $element = $array[3];}else{ $element = undef; print "Index out of bounds\n"; } #Check the array bounds before accessing elements.
